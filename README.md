@@ -1,6 +1,6 @@
 # React Simple API Frontend
 
-A React frontend application for consuming the nodejs-simpleapi-with-db API.
+A React frontend application for consuming the [nodejs-simpleapi-with-db](https://github.com/gabbyTI/nodejs-simple-api-with-db) API.
 
 ## Features
 
