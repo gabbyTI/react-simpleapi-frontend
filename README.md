@@ -70,4 +70,3 @@ src/
 - Create React App
 - Modern JavaScript (ES6+)
 - CSS3 with Flexbox
-# react-simpleapi-frontend
